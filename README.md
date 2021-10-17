@@ -1,5 +1,5 @@
 # Dashboard for Creative Tim
-It is an admin dashboard template designed to be beautiful and simple. 
+It is an admin dashboard template designed to be provide reusable beautiful and simple UI elements. 
 
 ## Specification
 
